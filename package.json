@@ -12,6 +12,7 @@
   "license": "ISC",
   "devDependencies": {
     "express": "^4.15.4",
+    "redux-logger": "^3.0.6",
     "webpack": "^3.5.4"
   },
   "dependencies": {
